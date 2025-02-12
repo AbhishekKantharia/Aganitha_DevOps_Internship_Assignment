@@ -108,8 +108,4 @@ To install the package from TestPyPI:
 pip install --index-url https://test.pypi.org/simple/ pubmed-fetcher
 ```
 
----
-
-## License
-This project is licensed under the MIT License.
 ```
