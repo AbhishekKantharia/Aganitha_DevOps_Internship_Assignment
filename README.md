@@ -7,7 +7,7 @@ PubMed Fetcher is a command-line tool that retrieves research papers from PubMed
 
 ## Project Organization
 
-pubmed_fetcher/
+Aganitha_DevOps_Internship_Assignment/
 │── pubmed_fetcher/
 │   ├── __init__.py         # Module initialization
 │   ├── fetch.py            # Fetches and filters PubMed research papers
@@ -31,7 +31,7 @@ pip install poetry
 
 ### Step 2: Clone the Repository
 ```sh
-git clone [(https://github.com/AbhishekKantharia/Aganitha_DevOps_Internship_Assignment.git)](https://github.com/AbhishekKantharia/Aganitha_DevOps_Internship_Assignment.git)
+git clone https://github.com/AbhishekKantharia/Aganitha_DevOps_Internship_Assignment.git
 cd Aganitha_DevOps_Internship_Assignment
 ```
 
