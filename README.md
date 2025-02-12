@@ -1,8 +1,5 @@
 # Aganitha_DevOps_Internship_Assignment
 
-Here is your README.md in proper Markdown format:
-
-```markdown
 # PubMed Fetcher
 
 ## Overview
@@ -11,7 +8,7 @@ PubMed Fetcher is a command-line tool that retrieves research papers from PubMed
 ---
 
 ## Project Organization
-```
+
 pubmed_fetcher/
 │── pubmed_fetcher/
 │   ├── __init__.py         # Module initialization
@@ -116,5 +113,3 @@ pip install --index-url https://test.pypi.org/simple/ pubmed-fetcher
 ## License
 This project is licensed under the MIT License.
 ```
-
-This is in proper Markdown format and ready for use. Let me know if you need any modifications! 🚀
