@@ -33,7 +33,7 @@ pip install poetry
 
 ### Step 2: Clone the Repository
 ```sh
-git clone https://github.com/yourusername/pubmed-fetcher.git
+git clone https://github.com/AbhishekKantharia/pubmed-fetcher.git
 cd pubmed-fetcher
 ```
 
@@ -106,6 +106,4 @@ poetry publish --repository testpypi
 To install the package from TestPyPI:
 ```sh
 pip install --index-url https://test.pypi.org/simple/ pubmed-fetcher
-```
-
 ```
