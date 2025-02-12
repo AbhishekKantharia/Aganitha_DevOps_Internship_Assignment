@@ -1,5 +1,3 @@
-# Aganitha_DevOps_Internship_Assignment
-
 # PubMed Fetcher
 
 ## Overview
