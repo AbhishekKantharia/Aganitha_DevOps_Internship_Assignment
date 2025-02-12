@@ -31,8 +31,8 @@ pip install poetry
 
 ### Step 2: Clone the Repository
 ```sh
-git clone https://github.com/AbhishekKantharia/pubmed-fetcher.git
-cd pubmed-fetcher
+git clone [(https://github.com/AbhishekKantharia/Aganitha_DevOps_Internship_Assignment.git)](https://github.com/AbhishekKantharia/Aganitha_DevOps_Internship_Assignment.git)
+cd Aganitha_DevOps_Internship_Assignment
 ```
 
 ### Step 3: Install Dependencies
