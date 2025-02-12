@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "pubmed-fetcher"
+version = "0.1.0"
+description = "Fetch research papers with non-academic authors from PubMed."
+authors = ["Your Name <your.email@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+requests = "^2.28.1"
+pandas = "^1.5.3"
+biopython = "^1.81"
+
+[tool.poetry.scripts]
+get-papers-list = "cli:main"
