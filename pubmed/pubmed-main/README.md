@@ -40,7 +40,7 @@ pip install --extra-index-url https://test.pypi.org/simple/ pubmed-fetcher-test=
 ### Git repository
 1. Clone the repository:
     ```bash
-    git clone https://github.com/arthiondaena/pubmed.git
+    git clone https://github.com/AbhishekKantharia/pubmed.git
     cd pubmed
     ```
 
