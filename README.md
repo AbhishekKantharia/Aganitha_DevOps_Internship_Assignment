@@ -16,7 +16,6 @@ Aganitha_DevOps_Internship_Assignment/
 │── pyproject.toml          # Poetry configuration
 │── README.md               # Documentation
 │── .gitignore              # Ignore unnecessary files
-```
 
 ---
 
