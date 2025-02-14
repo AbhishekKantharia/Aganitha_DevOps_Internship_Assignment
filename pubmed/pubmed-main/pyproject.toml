@@ -1,0 +1,23 @@
+[project]
+name = "pubmed_fetcher_test"
+dynamic = [ "version" ]
+
+[tool.poetry]
+version = "0.1.1"
+description = "A tool to fetch research papers from PubMed and process author affiliations."
+authors = ["Dinesh Kumar bunnydinesh50@gmail.com"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pandas = "2.2.3"
+requests = "2.32.3"
+
+[tool.poetry.scripts]
+pubmed = "pubmed_fetcher_test:main"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
+
